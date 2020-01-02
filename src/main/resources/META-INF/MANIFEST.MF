@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Main-Class: edu.bjtu.android.ElearnServiceApplication
+Class-Path: mybatis-spring-boot-starter-2.1.1.jar jackson-annotations-2.
+ 10.0.jar jakarta.validation-api-2.0.1.jar mybatis-spring-boot-autoconfi
+ gure-2.1.1.jar spring-jdbc-5.2.1.RELEASE.jar jackson-datatype-jdk8-2.10
+ .0.jar spring-aop-5.2.1.RELEASE.jar jackson-databind-2.10.0.jar mybatis
+ -3.5.3.jar spring-boot-starter-logging-2.2.1.RELEASE.jar jackson-core-2
+ .10.0.jar snakeyaml-1.25.jar spring-boot-starter-jdbc-2.2.1.RELEASE.jar
+  classmate-1.5.1.jar jackson-datatype-jsr310-2.10.0.jar jboss-logging-3
+ .4.1.Final.jar spring-expression-5.2.1.RELEASE.jar spring-boot-2.2.1.RE
+ LEASE.jar spring-tx-5.2.1.RELEASE.jar spring-webmvc-5.2.1.RELEASE.jar m
+ ybatis-dynamic-sql-1.1.4.jar mysql-connector-java-8.0.18.jar hibernate-
+ validator-6.0.18.Final.jar spring-core-5.2.1.RELEASE.jar log4j-to-slf4j
+ -2.12.1.jar spring-jcl-5.2.1.RELEASE.jar spring-boot-starter-tomcat-2.2
+ .1.RELEASE.jar tomcat-embed-websocket-9.0.27.jar tomcat-embed-core-9.0.
+ 27.jar jul-to-slf4j-1.7.29.jar spring-web-5.2.1.RELEASE.jar log4j-api-2
+ .12.1.jar spring-context-5.2.1.RELEASE.jar HikariCP-3.4.1.jar spring-bo
+ ot-starter-2.2.1.RELEASE.jar spring-boot-starter-web-2.2.1.RELEASE.jar 
+ logback-core-1.2.3.jar jackson-module-parameter-names-2.10.0.jar tomcat
+ -embed-el-9.0.27.jar jcodec-0.2.5.jar logback-classic-1.2.3.jar jcodec-
+ javase-0.2.5.jar mybatis-spring-2.0.3.jar spring-boot-autoconfigure-2.2
+ .1.RELEASE.jar spring-beans-5.2.1.RELEASE.jar slf4j-api-1.7.29.jar spri
+ ng-boot-starter-json-2.2.1.RELEASE.jar jakarta.annotation-api-1.3.5.jar
+  spring-boot-starter-validation-2.2.1.RELEASE.jar
+
